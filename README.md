@@ -2,10 +2,10 @@
 
 I am Sri Harsha. I am learning web development. My skill:
 
-1.html
-2.Css
-3.Javascript
-4.Github, Git
-5.Netlify
+1.html<br>
+2.Css<br>
+3.Javascript<br>
+4.Github, Git<br>
+5.Netlify<br>
 
 This is my personal portfolio. Created using pure html and css.
